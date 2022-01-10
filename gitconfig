@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = timwright614@gmail.com
+	name = Tim Wright
